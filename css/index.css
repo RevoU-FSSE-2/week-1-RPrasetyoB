@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-sizing: border-box;
+    margin-bottom: 3%;
+
+}
+
+html{
+background-color: whitesmoke                                                   ;
+}
+
+Header{
+    margin-top: 0px;
+}
+body{
+    height: auto;
+    width: auto;
+    border: 1px snow;
+    margin-top: 5% ;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 9px 10px 5px -3px rgba(0,0,0,0.65);
+    background-image: url("/image/es.jpg")
+
+}
+nav{
+     height: 100%;
+}
+nav ul{
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 0;
+}
+
+nav ul li{
+    text-decoration: none;
+    margin-bottom: 0;
+    padding: 4px;
+    background-color: #eccca1;
+    border-radius: 4px;
+    text-align: center;
+    margin-left: 2px;
+    margin-right: 2px;
+    color: whitesmoke;
+    box-shadow:9px 6px 5px -3px rgba(0,0,0,0.65) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-style: italic;
+    list-style-type: none;
+    float: left;
+}
+
+.photo{
+    float: right;
+    margin: 10%;
+    border-radius: 10px
+}
+
+main{
+    margin-top: 10%;
+    text-align: left;
+    text-decoration: none;
+    font-family: 'cursive';
+    text-align: start;
+}
+
+h6{
+    font-family: serif;
+}
+footer{
+    text-align: right;
+    font-size: xx-small;
+    color: violet;
+    font-style: bold;
+    font-weight: bold;
+    font-family: 'roboto';
+    text-decoration: underline;
+}
