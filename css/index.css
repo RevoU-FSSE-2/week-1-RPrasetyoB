@@ -5,7 +5,6 @@
     margin-right: 3%;
     box-sizing: border-box;
     margin-bottom: 3%;
-
 }
 
 html{
@@ -15,6 +14,7 @@ background-color: whitesmoke                                                   ;
 Header{
     margin-top: 0px;
 }
+
 body{
     height: auto;
     width: auto;
@@ -24,11 +24,12 @@ body{
     border-radius: 10px;
     box-shadow: 9px 10px 5px -3px rgba(0,0,0,0.65);
     background-image: url("/image/es.jpg")
-
 }
+
 nav{
      height: 100%;
 }
+
 nav ul{
     margin-left: 3%;
     margin-right: 3%;
@@ -60,7 +61,7 @@ nav ul li{
 }
 
 main{
-    margin-top: 10%;
+    margin-top: 14%;
     text-align: left;
     text-decoration: none;
     font-family: 'cursive';
@@ -70,12 +71,37 @@ main{
 h6{
     font-family: serif;
 }
+
+button{
+    margin: auto;
+    border-width: 3px;
+    padding: 3px;
+    border-color: rgb(31, 31, 78);
+    border-radius: 10%;
+    border-color: rgb(95, 96, 184);
+    color: rgb(88, 90, 83);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #eccca1;
+    
+}
+button:hover{
+    transition-duration: 0.1s;
+    background-color: #cfc8c8;
+}
+button:active{
+    background-color: rgb(160, 203, 240);
+}
+
+li:hover{
+    background-color: rgb(240, 216, 172);
+}
 footer{
     text-align: right;
     font-size: xx-small;
-    color: violet;
+    color: rgb(66, 2, 23);
     font-style: bold;
     font-weight: bold;
     font-family: 'roboto';
     text-decoration: underline;
 }
+
