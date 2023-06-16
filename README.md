@@ -1,6 +1,7 @@
 # Hi! My Name is Renaldi Prasetyo Basuki
+
 ## Web preview
-![page preview](hhttps://github.com/RevoU-FSSE-2/week-1-RPrasetyoB/blob/main/image/preview.png)
+![preview](https://github.com/RevoU-FSSE-2/week-1-RPrasetyoB/assets/129088807/3a42a978-60fb-46f1-91e1-1cf9e3799bdc)
 
 ## This Repos is for my first assignment at Revou fullstack bootcamp
 Website deployment: [Click here](https://renaldipb.netlify.app/)
