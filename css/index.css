@@ -140,6 +140,7 @@ footer{
         float: none;
         margin-bottom: 2em;
         width: 49vw;
+        margin-bottom: 1%;
     }
     a{
         font-size: x-large;
@@ -162,7 +163,7 @@ footer{
         margin-bottom: 4%;
     }
     button{
-        margin-top: 10%;
+        margin-top: 4%;
         font-size: x-large;
     }
     footer{
